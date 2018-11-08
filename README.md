@@ -1,3 +1,4 @@
+This is the companion repo to this [post](https://medium.com/@rajiv.abraham/introduction-purescript-twitter-fec6df5276dc)
 # Instructions
 ```sh
 bower install
