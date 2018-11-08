@@ -1,0 +1,23 @@
+{
+  "name": "blog-twitter-purescript",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^4.1.0",
+    "purescript-console": "^4.1.0",
+    "purescript-effect": "^2.0.0",
+    "purescript-milkis": "^6.0.1",
+    "purescript-simple-json": "^4.2.0",
+    "purescript-b64": "^0.0.5",
+    "purescript-node-fs-aff": "^6.0.0",
+    "purescript-bifunctors": "^4.0.0",
+    "purescript-transformers": "^4.1.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^4.0.0"
+  }
+}
